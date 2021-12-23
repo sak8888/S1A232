@@ -397,6 +397,7 @@ li {
   text-align: center;
 }
 
+
 .contact-item:not(:last-child) {
   margin-right: 10px;
 }
@@ -618,4 +619,16 @@ li {
   .article {
     padding: 50px 0;
   }
+}
+.catlogo{
+  max-width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.oukan{
+  max-width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
